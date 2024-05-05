@@ -30,9 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://photofunia.com">
     <img src="images/PhotoFunia-1714938920.jpg" alt="Logo" width="750" height="537">
-  </a>
+
 
   <h3 align="center">Best-README-Template</h3>
 
